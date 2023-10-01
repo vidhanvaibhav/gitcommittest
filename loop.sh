@@ -1,2 +1,5 @@
 string="vidhan Varun ambuj"
-echo $string
+for i in $string
+do 
+  echo $i
+done 
